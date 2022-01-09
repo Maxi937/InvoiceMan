@@ -32,7 +32,7 @@ btnCancel = Button(root, text="Cancel", command=root.quit)
 btnCancel.grid(row=4, column=4)
 
 #Creating a label widget
-lbl1 = Label(root, text="Please Enter your Name:")
+lbl1 = Label(root, text="Please, Enter your Name:")
 lbl1.grid(row=0, column=0)
 
 #Creating a Blank label widget
